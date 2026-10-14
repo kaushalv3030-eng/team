@@ -1,0 +1,6 @@
+p {
+  color: #3498db;       /* Changes text color to blue */
+  font-size: 18px;      /* Increases font size */
+  text-align: center;   /* Centers the text */
+  font-family: sans-serif; /* Changes the font style */
+}
