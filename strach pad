@@ -1,0 +1,33 @@
+## 4 Core Features — Policy-to-Practice Gap
+
+### 1. Regional Performance Comparison
+
+Compare the implementation and outcomes of a government policy across states, districts, and local offices using charts, tables, and regional maps.
+
+**Problem solved:** Identifies differences in policy outcomes across locations that aggregate statistics may hide.
+
+### 2. Implementation Gap Detection
+
+Automatically compare actual performance against policy targets and highlight regions where implementation is falling short.
+
+**Problem solved:** Identifies where policies are failing to achieve their intended targets and where intervention may be needed.
+
+### 3. Data-Driven Root Cause Analysis
+
+Analyze available administrative data, local conditions, and service-access indicators to identify potential factors associated with poor policy implementation.
+
+**Problem solved:** Helps policymakers investigate *why* implementation outcomes differ across regions instead of merely observing the differences.
+
+### 4. Actionable Insights and Prioritization
+
+Generate data-supported recommendations and rank underperforming regions according to the severity of their implementation gaps.
+
+**Problem solved:** Helps decision-makers prioritize interventions and allocate attention and resources where they may be needed most.
+
+---
+
+### How the 4 Features Work Together
+
+**Compare regions → Detect implementation gaps → Investigate potential causes → Prioritize corrective action**
+
+**MVP recommendation:** Build all four around one government scheme and a limited dataset. For root cause analysis, identify potential explanations only when supporting data is available; do not claim to establish causation from correlations alone.
